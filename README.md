@@ -17,11 +17,11 @@ Una aplicación web simple para **crear listas de amigos** y realizar un **sorte
 
 **Agregar amigos a la lista:**
 
-![Agregar amigos](assets/animacion-agregar.gif)
+![Agregar amigos](assets/agregar-amigos.png)
 
 **Realizar el sorteo de amigo secreto:**
 
-![Sorteo de amigo secreto](assets/animacion-sorteo.gif)
+![Sorteo de amigo secreto](assets/sorteo.png)
 
 
 ---
@@ -53,7 +53,5 @@ JavaScript (Vanilla JS)
 
 ---
 
-## 📂 Estructura del proyecto
-![Agregar amigos](assets/agregar-amigos.png)
-![Sorteo de amigo secreto](assets/sorteo.png)
+
 
