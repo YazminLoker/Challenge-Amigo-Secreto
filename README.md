@@ -1,5 +1,3 @@
-# Challenge-Amigo-Secreto
-Aplicación que permite a los usuarios ingresar nombres de amigos en una lista para luego realizar un sorteo aleatorio y determinar quién es el "amigo secreto".
 # Amigo Secreto 🎁
 
 Una aplicación web simple para **crear listas de amigos** y realizar un **sorteo aleatorio** para elegir un amigo secreto.
