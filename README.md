@@ -25,9 +25,37 @@ Una aplicación web simple para **crear listas de amigos** y realizar un **sorte
 
 ![Sorteo de amigo secreto](assets/animacion-sorteo.gif)
 
-> Reemplaza estos GIFs con animaciones reales de tu proyecto usando herramientas como **ScreenToGif** o **LICEcap**.
+
+---
+
+## 🚀 Cómo usarlo
+
+1. Clona este repositorio:
+
+```bash
+git clone https://github.com/tu-usuario/amigo-secreto.git
+
+Abre index.html en tu navegador web.
+
+Usa la app:
+
+Escribe un nombre → Añadir
+
+Repite para todos tus amigos
+
+Haz clic en Sortear amigo
+
+⚙️ Tecnologías
+
+HTML5
+
+CSS3
+
+JavaScript (Vanilla JS)
 
 ---
 
 ## 📂 Estructura del proyecto
+![Agregar amigos](assets/agregar-amigos.png)
+![Sorteo de amigo secreto](assets/sorteo.png)
 
